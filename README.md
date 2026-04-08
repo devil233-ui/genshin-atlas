@@ -4,8 +4,8 @@ Genshin-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.com
 目前部分图片由@玖喵（QQ：2014340648）在维护，感谢各位共创者的大力支持。
 
 ## 目录结构
-- [x] 武器图鉴（更新至6.3）
-- [x] 角色材料（更新至6.3）
+- [x] 武器图鉴（更新至6.5）
+- [x] 角色材料（更新至6.5）
 - [x] 圣遗物图鉴（更新至6.3）
 - [x] 原魔图鉴（更新至6.1）
 - [x] 区域特产（更新至4.0）
@@ -31,7 +31,7 @@ Genshin-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.com
 
 **点击加入[Genshin - Atlas交流群](https://qm.qq.com/cgi-bin/qm/qr?k=XOTZhBWpv68F1sfsMIzKJpg28NBPKJgg&jump_from=webapi&authKey=/XagQoLiUhOi+t67MCkWOSRLlXe+ywVmrkCHdoD3CjwqNzAUYspTrqYklkwb3W0R)**。
 
-如果你支持本项目，可以给个star或者[爱发电](https://afdian.net/a/Nwflower)，你的支持不会获得额外内容，但会提高本项目的更新积极性
+如果你支持本项目，可以给个star或者[爱发电](https://ifdian.net/a/Nwflower)，你的支持不会获得额外内容，但会提高本项目的更新积极性
 
 ## 如何获取
 
