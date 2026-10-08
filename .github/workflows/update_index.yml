@@ -10,6 +10,9 @@ jobs:
   update:
     name: Update File Index
     runs-on: ubuntu-latest
+    # fork 仓库默认的 GITHUB_TOKEN 是只读，推不回索引提交，这里显式申请写权限
+    permissions:
+      contents: write
     steps:
       - name: Checkout repo
         uses: actions/checkout@master
