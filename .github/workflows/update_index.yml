@@ -10,7 +10,8 @@ jobs:
   update:
     name: Update File Index
     runs-on: ubuntu-latest
-    # fork 仓库默认的 GITHUB_TOKEN 是只读，推不回索引提交，这里显式申请写权限
+    # fork 仓库默认 GITHUB_TOKEN 只读（推不回索引提交），且 fork 的 workflow 需先在
+    # Actions 页手动启用；这里显式申请写权限，保证索引提交能推回仓库
     permissions:
       contents: write
     steps:
